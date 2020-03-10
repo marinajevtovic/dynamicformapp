@@ -1,0 +1,10 @@
+hr {
+    border: 5px solid rgb(62, 69, 70);
+    border-radius: 1px;
+  }
+
+
+input:checked ~ .checkbox-indicator {
+    background-color: rgb(43, 52, 92);
+    box-shadow: none;
+}
